@@ -45,7 +45,7 @@ I have been reading about the blockchain a lot. Reading and doing are the same t
 
 ### **The learning**
 
-Today's learning is pretty fun. The learning focus in solidity fundamental. I learned the theory of smart contract from compilation to deployment. I really now understand the concept of state and its impact on the smart contract. A poorly written smart contract will cost you gas. I also learned about the constructor and its purpose. I wrote codes to play around with language and ciment my understanding of the concepts. Keep learning!!!
+Today's learning is pretty fun. The learning focus in solidity fundamental. I learned the theory of smart contract from compilation to deployment. I really now understand the concept of state and its impact on the smart contract. A poorly written smart contract will cost you gas. I also learned about the constructor and its purpose. I wrote codes to play around with language and ciment my understanding of the concepts. Keep learning!!! Keep practicing!!!
 
 ---
 
@@ -60,4 +60,3 @@ Today's learning is pretty fun. The learning focus in solidity fundamental. I le
 ---
 
 #
-
