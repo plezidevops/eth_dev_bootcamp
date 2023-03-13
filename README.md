@@ -49,6 +49,19 @@ Today's learning is pretty fun. The learning focus in solidity fundamental. I le
 
 ---
 
+## Day-03 03/12/2023
+
+### **Topic** Solidity Fundamental part2
+
+### **The focus**
+- Types: string, address, boolean, integer, if-statement, functions
+- creating the messenger smart contract
+
+### **The learning**
+To day I cover lots of stuff with lots of hands-on practice. At the end I created a smart contract that keeps tracks of messages. Anyone can read the message, but only the address that deploys the smart contract can update messages. Also the contract is able to inform callers the number of times message in the smart contract updated. I had a rough time understanding contract addresses. In the end I nailed it. Keep up the learning chief!!!
+
+---
+
 ## Day-00 00/00/2023
 
 ### **Topic** Your topic
